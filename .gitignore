@@ -1,0 +1,6 @@
+# Ignorar a base de datos de tarefas
+data/tareas.json
+
+# Ignorar ficheiros temporais
+__pycache__/
+*.pyc
